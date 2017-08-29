@@ -1,0 +1,11 @@
+Name, Type, Image, Description, Mechanics
+Rope & Hook, Starting Equipment, images/rope and hook WS.png, "Standard issue grapple gear. Includes 50 feet of rope and a curved metal anchor.", +3 DEX when climbing
+Spell Book, Starting Equipment, images/spell book.png, "Even waste-landers and spacefarers know that Magic is a potent and omnipresent force. With this book of hidden glyphs and dimensional math, you are one step closer to mastering it's mysterious power.", +1 INT when casting spells
+Common Shield, Starting Equipment, images/common shield WS.png, "Sure, it uses up a hand, weighs a ton, and makes a bunch of noise, but it sure can take a beating. Common Shields can be sacrificed to absorb ALL of one hit against you and be destroyed.", +2 ARMOR
+Supplies Pack, Starting Equipment, images/supplies kit.png, "Long journey? This pack is a must. When traveling far and wide, the GM will roll for travel cost. This many 'Supplies' are consumed on the voyage. Average value per pack is 10 Coin.", "Food, Flint, 3 Flares"
+Miner's Gear, Starting Equipment, images/miner's tools.png, "Even in science fiction settings, basic earthworks and tunneling gear can be critical.", "Lantern, Pick, Spikes"
+Tools (one type), Starting Equipment, images/tools.png, "Choose Lock picks, Smithing, Woodwork, Technology (by Type), or Medicine. Add a +3 bonus to your ATTEMPTS when performing that craft with your tools.", +3 ATTEMPT
+Trapper Gear, Starting Equipment, images/trapper gear.png, "Whether you're wandering the wild, marooned on a strange planet, or stuck in the middle of nowhere, these are crucial.", "Snares, Tackle, Tent"
+Coin Pouch, Starting Equipment, images/coin pouch.png, "Seashells, credits, gold, greenbacks... whatever. You've got some pocket cash for the next tavern.", 50 COIN
+Common Armor, Starting Equipment, images/common armor (helm).png, "One extra piece to add to your starting Armor STAT. Remember as you gather more Armor items, a maximum of +10 Armor from items is all you can wear. This does NOT include Armor gained from your STAT.", +1 ARMOR
+Instrument, Starting Equipment, images/instruments.png, "Yes, you jam. You lay it down and people listen. With your lute/synth/drum/war horn you remind everyone what being a badass really means.", +3 CHA when performing

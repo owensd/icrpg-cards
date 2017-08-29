@@ -1,0 +1,14 @@
+Name, Type, Image, Description, Mechanics
+20 Magic Ammo, Basic Loot, images/20 Magic Ammo.png, "Be it arrows, bolts, or bullets, it houses a weird, deadly power.", MAGIC EFFORT
+Book of Secrets, Basic Loot, images/book of secrets.png, "All worlds hold weird secrets. With this, you know a few of them.", +1 INT
+Meditation Beads, Basic Loot, images/meditation beads.png, "By counting the beads, the mind settles, senses heighten, and intuition improves.", +1 WIS
+Masterful Coat, Basic Loot, images/masterful coat.png, "Your voice seems more commanding, your tone more grave.", +1 CHA
+Fire Stone, Basic Loot, images/fire stone.png, "Fragments of some forgotten crystal enhance your magical power.", +1 MAGIC EFFORT
+Armor Kit, Basic Loot, images/armor kit.png, "Attachment that overlays on top of your existing armor providing even more protection. Requires at least 1 point in ARMOR.", +1 ARMOR BONUS
+Masterful Boots, Basic Loot, images/masterful boots.png, "Nothing helps the nimble and swift like well-made foot wear.", +1 DEX
+Trusty Mug, Basic Loot, images/trusty mug.png, "He who drinks from the same mug every day will know the joys of a steadfast gut.", +1 CON
+Ring of Might, Basic Loot, images/ring of might.png, "Used for bending bars, swinging a hammer, and pulling a wagon.", +1 STR
+Weapon Kit, Basic Loot, images/weapons belt.png, "Grip chain, custom belt sling, and other tidbits give you an edge.", +2 WEAPON EFFORT
+Spy Glass, Basic Loot, images/spy glass.png, "Scanning the horizon for threats? Scanning the stars for signs of the enemy? The spyglass will help you in any scouting endeavor.", +3 WIS when scouting
+Berserk Ring, Basic Loot, images/zerk'n ring.png, "Make ULTIMATE EFFORT rolls even more ULTIMATE!", +3 ULTIMATE EFFORT
+Greedy Gloves, Basic Loot, images/greedy gloves.png, "Get LOOT faster with these clever gloves.", Roll ULTIMATE when opening chests
